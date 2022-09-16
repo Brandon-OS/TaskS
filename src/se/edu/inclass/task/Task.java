@@ -1,4 +1,4 @@
-package se.edu.inclass.task;
+package src.se.edu.inclass.task;
 
 public abstract class Task {
     protected String description;

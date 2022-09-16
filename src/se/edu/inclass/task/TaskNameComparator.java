@@ -1,4 +1,4 @@
-package se.edu.inclass.task;
+package src.se.edu.inclass.task;
 
 import java.util.Comparator;
 
